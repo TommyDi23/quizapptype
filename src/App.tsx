@@ -3,7 +3,7 @@ import QuestionCard from "./components/QuestionCard";
 
 const startTrivia = async () => {};
 
-const checkAnaswer = (e: React.MouseEvent<HTMLButtonElement>) => {};
+const checkAnswer = (e: React.MouseEvent<HTMLButtonElement>) => {};
 
 const nextQuestion = () => {};
 
